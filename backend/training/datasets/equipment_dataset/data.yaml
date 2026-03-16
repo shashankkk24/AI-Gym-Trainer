@@ -1,0 +1,13 @@
+path: ./equipment_dataset
+train: train/images
+val: val/images
+
+names:
+  0: dumbbell
+  1: barbell
+  2: yoga_mat
+  3: resistance_band
+  4: kettlebell
+  5: pull_up_bar
+  6: bench
+  7: jump_rope
